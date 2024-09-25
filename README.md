@@ -1,4 +1,5 @@
 What You’ll Do After Downloading the Project
+Unzip file to any directory
 Setup Your Environment:
 Install the required dependencies and ensure that you have Node.js 21.7.1 and npm 10.8.1 installed.
 Configure environment variables to securely manage sensitive data required for the tests.
