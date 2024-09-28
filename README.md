@@ -6,4 +6,4 @@ cd Test-project
 
 How to install dependencies: npm install
 How to run test: npx playwright test
-Note: If you want run test via ui: npx playwright test --ui
+Note: If you want run test via ui: npx playwright test --ui 
